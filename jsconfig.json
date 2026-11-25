@@ -1,0 +1,40 @@
+{
+  "typeAcquisition": {
+    "enable": true
+  },
+  "references": [
+    {
+      "path": ".wix/types/b8vle/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/bjshi/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/c1dmp/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/cukwa/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/x69pf/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/xey1f/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/xkrp6/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/z9jpd/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/masterPage/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/backend/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/public/jsconfig.json"
+    }
+  ]
+}
